@@ -42,7 +42,7 @@ def buscar_primeira_habilidade(pokemon):
 
     if response.status_code == 200:
         dados = response.json()
-        # pegar o peso o nome da primeira habilidade do pokemon, salvar na variável habilidade e retornar
+        # pegar o nome da primeira habilidade do pokemon, salvar na variável habilidade e retornar
         return habilidade
     else:
         return None
