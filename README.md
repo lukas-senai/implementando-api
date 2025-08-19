@@ -76,9 +76,9 @@ Tipos: ['electric']
 ## 📜 Estrutura do Código
 ### Funções disponíveis
 - `buscar_nome(pokemon)` → já implementada (exemplo pronto).  
-- `buscar_peso(pokemon)` → deve ser completada pelos alunos.  
-- `buscar_primeira_habilidade(pokemon)` → deve ser completada pelos alunos.  
-- `buscar_tipos(pokemon)` → deve ser completada pelos alunos.  
+- `buscar_peso(pokemon)` → deve ser completada.  
+- `buscar_primeira_habilidade(pokemon)` → deve ser completada.  
+- `buscar_tipos(pokemon)` → deve ser completada.  
 - `buscar_altura(pokemon)` → desafio: criar do zero.  
 
 ---
